@@ -41,3 +41,6 @@
 2016-01-17T14:00:09.ous-MacBook-Pro.local git commit -am "template"
 2016-01-17T14:00:27.ous-MacBook-Pro.local git push
 2016-01-17T14:02:08.ous-MacBook-Pro.local vi index.html 
+2016-01-17T14:02:26.ous-MacBook-Pro.local git commit -am "change title"
+2016-01-17T14:02:30.ous-MacBook-Pro.local git push
+2016-01-17T14:05:03.ous-MacBook-Pro.local make
