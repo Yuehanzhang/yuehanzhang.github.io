@@ -1,0 +1,26 @@
+2016-01-17T11:59:51.ous-MacBook-Pro.local git init
+2016-01-17T12:00:16.ous-MacBook-Pro.local git config user.name "Yuehanzhang"
+2016-01-17T12:00:44.ous-MacBook-Pro.local git config user.email "yhzhang16@gmail.com"
+2016-01-17T12:01:10.ous-MacBook-Pro.local git add README.md
+2016-01-17T12:01:21.ous-MacBook-Pro.local echo "# yuehanzhang.github.io" >> README.md
+2016-01-17T12:01:32.ous-MacBook-Pro.local git add README.md
+2016-01-17T12:01:48.ous-MacBook-Pro.local git remote add origin https://github.com/Yuehanzhang/yuehanzhang.github.io.git
+2016-01-17T12:01:55.ous-MacBook-Pro.local git push -u origin master
+2016-01-17T12:02:10.ous-MacBook-Pro.local git add README.md
+2016-01-17T12:02:12.ous-MacBook-Pro.local git push -u origin master
+2016-01-17T12:02:55.ous-MacBook-Pro.local git commit -m "first commit"
+2016-01-17T12:03:00.ous-MacBook-Pro.local git remote add origin https://github.com/Yuehanzhang/yuehanzhang.github.io.git
+2016-01-17T12:03:03.ous-MacBook-Pro.local git push -u origin master
+2016-01-17T12:03:48.ous-MacBook-Pro.local echo $GIT_COMMITTER_EMAIL
+2016-01-17T12:04:32.ous-MacBook-Pro.local GIT_COMMITTER_EMAIL="yhzhang16@gmail.com"
+2016-01-17T12:04:34.ous-MacBook-Pro.local git push -u origin master
+2016-01-17T12:05:12.ous-MacBook-Pro.local git push -u origin master
+2016-01-17T12:06:03.ous-MacBook-Pro.local echo $GIT_COMMITTER_EMAIL
+2016-01-17T12:06:14.ous-MacBook-Pro.local echo $GIT_AUTHOR_EMAIL
+2016-01-17T12:11:48.ous-MacBook-Pro.local vi .git/config 
+2016-01-17T12:11:58.ous-MacBook-Pro.local vi README.md 
+2016-01-17T12:12:10.ous-MacBook-Pro.local git commit -am "try"
+2016-01-17T12:12:13.ous-MacBook-Pro.local git push
+2016-01-17T12:12:31.ous-MacBook-Pro.local git push origin master
+2016-01-17T12:12:59.ous-MacBook-Pro.local echo "Hello World" > index.html
+2016-01-17T12:13:05.ous-MacBook-Pro.local git push origin master
