@@ -33,3 +33,8 @@
 2016-01-17T12:14:12.ous-MacBook-Pro.local git push --set-upstream origin master
 2016-01-17T12:14:19.ous-MacBook-Pro.local git push
 2016-01-17T13:58:52.ous-MacBook-Pro.local vi index.html 
+2016-01-17T13:58:59.ous-MacBook-Pro.local git commit -am "test"
+2016-01-17T13:59:02.ous-MacBook-Pro.local git push
+2016-01-17T13:59:45.ous-MacBook-Pro.local cp ../dqwang/* .
+2016-01-17T13:59:49.ous-MacBook-Pro.local cp -r ../dqwang/* .
+2016-01-17T13:59:57.ous-MacBook-Pro.local git add *
