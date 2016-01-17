@@ -24,3 +24,11 @@
 2016-01-17T12:12:31.ous-MacBook-Pro.local git push origin master
 2016-01-17T12:12:59.ous-MacBook-Pro.local echo "Hello World" > index.html
 2016-01-17T12:13:05.ous-MacBook-Pro.local git push origin master
+2016-01-17T12:13:18.ous-MacBook-Pro.local git add --all
+2016-01-17T12:13:18.ous-MacBook-Pro.local ~$git commit -m "Initial commit"
+2016-01-17T12:13:25.ous-MacBook-Pro.local git commit -m "Initial commit"
+2016-01-17T12:13:32.ous-MacBook-Pro.local git push origin master
+2016-01-17T12:13:55.ous-MacBook-Pro.local git rm README.md 
+2016-01-17T12:13:59.ous-MacBook-Pro.local git push 
+2016-01-17T12:14:12.ous-MacBook-Pro.local git push --set-upstream origin master
+2016-01-17T12:14:19.ous-MacBook-Pro.local git push
