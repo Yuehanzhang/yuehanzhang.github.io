@@ -44,3 +44,10 @@
 2016-01-17T14:02:26.ous-MacBook-Pro.local git commit -am "change title"
 2016-01-17T14:02:30.ous-MacBook-Pro.local git push
 2016-01-17T14:05:03.ous-MacBook-Pro.local make
+2016-01-17T14:05:18.ous-MacBook-Pro.local git commit -am "change title"
+2016-01-17T14:05:24.ous-MacBook-Pro.local git push
+2016-01-17T14:07:00.ous-MacBook-Pro.local vi Makefile
+2016-01-17T14:07:19.ous-MacBook-Pro.local vi Makefile 
+2016-01-17T14:07:22.ous-MacBook-Pro.local make
+2016-01-17T14:08:10.ous-MacBook-Pro.local vi Makefile 
+2016-01-17T14:08:17.ous-MacBook-Pro.local git add Makefile 
