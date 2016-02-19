@@ -187,3 +187,5 @@
 2016-02-19T15:44:48.ous-MacBook-Pro.local git commit -am "updated paper"
 2016-02-19T15:44:53.ous-MacBook-Pro.local git push
 2016-02-19T18:42:13.ous-MacBook-Pro.local vi index.html 
+2016-02-19T18:42:17.ous-MacBook-Pro.local make
+2016-02-19T18:43:12.ous-MacBook-Pro.local vi index.html 
