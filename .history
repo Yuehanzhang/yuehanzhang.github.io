@@ -238,3 +238,6 @@
 2017-02-07T16:12:23.ous-MacBook-Pro.local git push
 2017-02-07T16:15:52.ous-MacBook-Pro.local open index.html
 2017-02-07T16:17:13.ous-MacBook-Pro.local vi index.html
+2017-02-07T16:17:18.ous-MacBook-Pro.local git commit -am "minor"
+2017-02-07T16:17:22.ous-MacBook-Pro.local git push
+2017-02-07T16:31:46.ous-MacBook-Pro.local vi index.html
