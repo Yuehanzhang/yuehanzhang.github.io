@@ -247,3 +247,9 @@
 2017-03-02T11:55:21.ous-MacBook-Pro.local vi index.html
 2017-03-02T11:55:27.ous-MacBook-Pro.local open index.html
 2017-03-02T11:56:43.ous-MacBook-Pro.local vi index.html
+2017-03-02T11:56:58.ous-MacBook-Pro.local git commit -am "published"
+2017-03-02T11:57:02.ous-MacBook-Pro.local git push
+2017-03-06T20:38:46.ous-MacBook-Pro.local vi index.html
+2017-03-06T20:38:52.ous-MacBook-Pro.local open index.html
+2017-03-06T20:39:30.ous-MacBook-Pro.local open index.html
+2017-03-06T20:40:04.ous-MacBook-Pro.local vi index.html
