@@ -289,3 +289,6 @@
 2018-03-20T22:20:27.Dingquans-MacBook-Pro.local make
 2018-03-20T22:20:55.Dingquans-MacBook-Pro.local git pull
 2018-03-20T22:21:15.Dingquans-MacBook-Pro.local vi .history
+2018-03-20T22:21:57.Dingquans-MacBook-Pro.local git stash
+2018-03-20T22:22:02.Dingquans-MacBook-Pro.local git pull
+2018-03-20T22:22:08.Dingquans-MacBook-Pro.local git stash pop
