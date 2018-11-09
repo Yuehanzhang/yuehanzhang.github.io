@@ -299,3 +299,7 @@
 2018-03-20T22:23:37.Dingquans-MacBook-Pro.local git push
 2018-03-20T22:23:41.Dingquans-MacBook-Pro.local git pull
 2018-03-20T22:24:18.Dingquans-MacBook-Pro.local vi index.html
+2018-03-20T22:24:20.Dingquans-MacBook-Pro.local git commit -am "minor"
+2018-03-20T22:24:24.Dingquans-MacBook-Pro.local git push
+2018-03-20T22:24:53.Dingquans-MacBook-Pro.local open index.html
+2018-11-09T09:51:59.Dingquans-MacBook-Pro.local vi index.html
