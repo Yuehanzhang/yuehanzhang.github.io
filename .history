@@ -343,3 +343,6 @@
 2021-01-23T00:43:09.Dingquans-MacBook-Pro.local make
 2021-01-23T00:43:48.Dingquans-MacBook-Pro.local git commit -am "hah"
 2021-01-23T00:43:56.Dingquans-MacBook-Pro.local git push
+2021-01-23T00:44:01.Dingquans-MacBook-Pro.local make
+2021-01-23T00:44:23.Dingquans-MacBook-Pro.local cat Makefile
+2021-01-23T00:46:37.Dingquans-MacBook-Pro.local vi index.html
